@@ -1,0 +1,7 @@
+mcp
+fastmcp
+requests
+python-dotenv
+tenacity
+streamlit
+ollama

@@ -1,0 +1,5 @@
+mcp
+fastmcp
+requests
+google-genai
+python-dotenv
